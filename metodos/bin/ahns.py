@@ -3,7 +3,7 @@
 
 #Data to be given by the User.
 import math
-import numpy
+# import numpy
 
 print("")
 print("Please use PYTHON Notations.\n")
